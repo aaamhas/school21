@@ -1,0 +1,7 @@
+# Shell scripts must retain UNIX line endings.
+*.sh text eol=lf
+*.jq text eol=lf
+
+# Preserve the original bytes of the input and the saved results.
+*.json -text
+*.csv -text
