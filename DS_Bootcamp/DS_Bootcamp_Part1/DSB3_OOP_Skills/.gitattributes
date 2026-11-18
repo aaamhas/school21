@@ -1,0 +1,2 @@
+# Preserve the original source, data, and saved report bytes.
+src/** -text
