@@ -1,0 +1,2 @@
+# Preserve the original exercise files and saved artifacts byte for byte.
+src/** -text

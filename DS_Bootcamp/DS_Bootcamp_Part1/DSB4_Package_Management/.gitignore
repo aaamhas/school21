@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+karlondo/
+/src/ex02/to_install.txt
