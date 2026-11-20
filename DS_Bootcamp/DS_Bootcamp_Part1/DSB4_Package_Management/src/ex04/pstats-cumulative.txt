@@ -1,0 +1,15 @@
+Sat Sep 12 17:13:44 2026    profile_output.prof
+
+         639405 function calls (620137 primitive calls) in 1.431 seconds
+
+   Ordered by: cumulative time
+   List reduced from 2090 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+    210/1    0.003    0.000    1.431    1.431 {built-in method builtins.exec}
+        1    0.000    0.000    1.431    1.431 financial_enhanced.py:1(<module>)
+        1    0.000    0.000    1.266    1.266 financial_enhanced.py:44(main)
+        1    0.000    0.000    1.058    1.058 financial_enhanced.py:15(get_response)
+        1    0.000    0.000    1.058    1.058 C:/Users/khasy/school21/DSB4_Package_management_ID_1577671-1/src/ex00/karlondo/lib/python3.12/site-packages/httpx/_api.py:174(get)
+
+
