@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+/src/ex05/ratings.csv
+ml-25m/
+ml-25m.zip

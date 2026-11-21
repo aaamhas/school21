@@ -1,0 +1,2 @@
+# Preserve the original Python source bytes.
+src/** -text
