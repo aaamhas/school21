@@ -1,0 +1,5 @@
+# Preserve the selected source files, data, and saved notebook byte for byte.
+src/** -text
+datasets/** -text
+code-samples/** -text
+LICENSE -text
