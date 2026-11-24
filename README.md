@@ -14,7 +14,7 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="5" align="center"><a href="DS_Bootcamp/DS_Bootcamp_Part1/">Часть 1</a></td>
+      <td rowspan="6" align="center"><a href="DS_Bootcamp/DS_Bootcamp_Part1/">Часть 1</a></td>
       <td><a href="DS_Bootcamp/DS_Bootcamp_Part1/DSB1_UNIX_Command_Line_Tools/">DSB1 · UNIX Command Line Tools</a></td>
       <td>Обработка вакансий HeadHunter в командной строке</td>
     </tr>
@@ -33,6 +33,10 @@
     <tr>
       <td><a href="DS_Bootcamp/DS_Bootcamp_Part1/DSB5_Efficient_Code_Practices/">DSB5 · Efficient Code Practices</a></td>
       <td>Бенчмарки коллекций, генераторы и измерение времени и памяти</td>
+    </tr>
+    <tr>
+      <td><a href="DS_Bootcamp/DS_Bootcamp_Part1/DSB6_MovieLens_Analytics/">DSB6 · MovieLens Analytics</a></td>
+      <td>Групповой проект — анализ фильмов, оценок и тегов MovieLens</td>
     </tr>
     <tr>
       <td align="center"><a href="DS_Bootcamp/DS_Bootcamp_Part2/">Часть 2</a></td>
